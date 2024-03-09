@@ -262,6 +262,10 @@ The template of the comment section of your pull request is attached below, you 
 * Figure-39-2. This image shows an naive inclusive scan. We should convert this to an exclusive one for compaction.
 ![](img/figure-39-2.jpg)
 
+* Example 39-1: This code has a mistake in the implementation of the naive scan algorithm
+
+![](img/example-39-1.png)
+
 ## Algorithm Examples
 
 * scan: 
